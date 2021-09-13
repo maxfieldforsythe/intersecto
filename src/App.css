@@ -91,3 +91,16 @@
   padding-left: 4.8%;
   padding-right: 4.8%;
 }
+
+.buttons {
+  background-color: #45a29e;
+  color: #fff;
+  font-size: 20px;
+  width: 60%;
+  height: 7vh;
+  border-color: #fff;
+  border-radius: 10px;
+  border-style: solid;
+  margin-top: 20px;
+
+}
